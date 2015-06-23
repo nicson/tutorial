@@ -6,3 +6,4 @@ githubをインストールしてみた
 aaa
 japanese
 source-tree
+hahaha
