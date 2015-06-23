@@ -1,5 +1,4 @@
 tutorial
 pull リモートリポジトリの内容を取得する
 add 変更をインデックスに登録する
-bbb
-terminalから変更
+ccc
