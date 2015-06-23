@@ -4,3 +4,4 @@ add 変更をインデックスに登録する
 ccc
 githubをインストールしてみた
 aaa
+japanese
